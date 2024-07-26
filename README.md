@@ -1,4 +1,5 @@
-![Animated Logo](https://github.com/SebasDatacoustic/Automatizaci-n-de-impresi-n-de-archivos-PDF-adjuntos-al-correo-electr-nico-con-Python./blob/main/gif%20logo%20data.gif?raw=true)
+
+<img src="https://github.com/SebasDatacoustic/Automatizaci-n-de-impresi-n-de-archivos-PDF-adjuntos-al-correo-electr-nico-con-Python./blob/main/gif%20logo%20data.gif?raw=true" alt="Animated Logo" width="200" height="200"/>
 
 
 # AUTOMATIZACIÓN DE IMPRESIÓN DE MÚLTPLES ARCHIVOS ADJUNTOS EN FORMATO PDF, QUE SE ENCUENTREN UN CORREO ELECTRÓNICO.
